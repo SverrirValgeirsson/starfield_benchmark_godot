@@ -4,7 +4,7 @@ I came across the YouTube videos that @amirrajan made about DragonRuby performan
 So I thought it would be fun to see how it stacks up against Godot4. 
 
 Now, I am no expert so this is a simple implementation and there may be ways of making this faster, but on my machine 
-(Mac Mini 2018 3,2 GHz 6-Core Intel Core i7) DragonRuby is always quite a bit faster.
+(Mac Mini 2018 3,2 GHz 6-Core Intel Core i7) DragonRuby and Godot seem quite similar in performance for this case.
 
 Anyway. Hope this is of some interest to someone.
 
